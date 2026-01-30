@@ -9,7 +9,7 @@ html, body {
 }
 
 body {
-  background-color: #0b1220; /* dark blue / almost black */
+  background-color: #f6f7f9;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -26,3 +26,4 @@ body {
   width: 160px;
   max-width: 60vw;
 }
+
